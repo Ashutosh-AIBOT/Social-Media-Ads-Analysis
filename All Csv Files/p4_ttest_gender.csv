@@ -1,0 +1,2 @@
+comparison,t_statistic,p_value,significant,men_avg_roi,women_avg_roi,conclusion
+Men vs Women ROI,-1.3198,0.186908,False,3.173,3.185,No significant difference

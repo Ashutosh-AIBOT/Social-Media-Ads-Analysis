@@ -1,0 +1,10 @@
+target,model,accuracy,auc,precision,recall,f1
+High ROI,Logistic Regression,0.9979,1.0,0.9979,0.9979,0.9979
+High ROI,Random Forest,1.0,1.0,1.0,1.0,1.0
+High ROI,Gradient Boosting,1.0,1.0,1.0,1.0,1.0
+High Profit,Logistic Regression,0.9957,1.0,0.9957,0.9957,0.9957
+High Profit,Random Forest,0.9999,1.0,0.9999,0.9999,0.9999
+High Profit,Gradient Boosting,1.0,1.0,1.0,1.0,1.0
+Campaign Success,Logistic Regression,0.9401,0.9772,0.939,0.9401,0.9395
+Campaign Success,Random Forest,1.0,1.0,1.0,1.0,1.0
+Campaign Success,Gradient Boosting,1.0,1.0,1.0,1.0,1.0

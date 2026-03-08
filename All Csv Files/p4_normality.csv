@@ -1,0 +1,6 @@
+column,statistic,p_value,is_normal,conclusion
+ROI,0.9118,0.0,False,Not Normal
+CTR,0.7212,0.0,False,Not Normal
+Conversion_Rate,0.9553,0.0,False,Not Normal
+Engagement_Score,0.8711,0.0,False,Not Normal
+Acquisition_Cost,0.9592,0.0,False,Not Normal

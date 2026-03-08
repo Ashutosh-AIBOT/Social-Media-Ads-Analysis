@@ -1,0 +1,5 @@
+test,f_statistic,p_value,significant,conclusion
+ANOVA — Campaign Goal vs ROI,0.9929,0.394942,False,Goals have same ROI impact
+ANOVA — Location vs ROI,0.5999,0.66273,False,Locations have same ROI
+ANOVA — Duration vs ROI,0.2631,0.852002,False,Duration has no impact on ROI
+ANOVA — Customer Segment vs ROI,1.3888,0.234926,False,Segments have same ROI

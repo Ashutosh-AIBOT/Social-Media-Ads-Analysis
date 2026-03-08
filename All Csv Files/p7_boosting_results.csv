@@ -1,0 +1,7 @@
+target,model,accuracy,auc,precision,recall,f1
+High ROI,XGBoost,0.7568,0.7547,0.8361,0.7568,0.7414
+High ROI,AdaBoost,0.7569,0.7552,0.8363,0.7569,0.7415
+High Profit,XGBoost,0.8164,0.8568,0.8488,0.8164,0.8121
+High Profit,AdaBoost,0.8171,0.8571,0.8505,0.8171,0.8126
+Campaign Success,XGBoost,0.9798,0.9886,0.9824,0.9798,0.9804
+Campaign Success,AdaBoost,0.9798,0.9885,0.9824,0.9798,0.9804

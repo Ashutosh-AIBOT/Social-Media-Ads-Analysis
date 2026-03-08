@@ -1,0 +1,4 @@
+comparison,t_statistic,p_value,significant,conclusion
+Instagram vs Facebook,1.8144,0.069617,False,No significant difference
+Instagram vs Pinterest,384.6167,0.0,True,Significant difference
+Twitter vs Pinterest,384.8157,0.0,True,Significant difference

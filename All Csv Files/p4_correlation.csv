@@ -1,0 +1,7 @@
+pair,correlation,p_value,significant,strength
+ROI vs Engagement_Score,0.3552,0.0,True,Weak
+ROI vs Conversion_Rate,-0.0004,0.840207,False,Weak
+CTR vs ROI,0.2929,0.0,True,Weak
+Acquisition_Cost vs Revenue,0.5305,0.0,True,Moderate
+Duration_Days vs ROI,-0.0015,0.426538,False,Weak
+Clicks vs Revenue,0.6763,0.0,True,Moderate
